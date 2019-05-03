@@ -1,1 +1,1 @@
-O GitHub precisa de chaves para funcionar.
+O GitHub precisa de chaves para funcionar remotamente.
